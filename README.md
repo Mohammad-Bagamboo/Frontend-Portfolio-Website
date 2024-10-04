@@ -1,6 +1,6 @@
 # Portfolio Website
 
-This is a simple and responsive portfolio website for Jessica who is a full-stack developer, off course she is an imaginary character (:. It has 5 pages.
+This is a simple and responsive portfolio website for Jessica who is a full-stack developer, of course she is an imaginary character (:. It has 5 pages.
 
 ## Technologies
 
