@@ -17,10 +17,5 @@ This is a simple and responsive portfolio website for Jessica who is a full-stac
 
 This project is licensed under the MIT License.
 
-## Contact
-
-- [Follow me on X](https://x.com/Mohamad_Bagambo)
-
-- [Follow me on Telegram](https://t.me/Mohammad_Bagamboo)
-
-- [Behance](https://behance.com/MohammadBagamboo)
+## Demo
+Preview the website from [here](jessica-portfolio-hqiqor8w1-mohammad-bagamboos-projects.vercel.app)
